@@ -1,2 +1,1 @@
-# bnbcafe.github.io
-Project B
+# bnb.cafe
